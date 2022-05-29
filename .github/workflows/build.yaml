@@ -28,6 +28,6 @@ jobs:
       - name: Build
         run: |
           go build
-      # - name: Tests
-      #   run: |
-      #     some test command
+      - name: Run tests
+        run: |
+          go test
