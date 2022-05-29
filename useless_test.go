@@ -1,4 +1,4 @@
-package useless
+package main
 
 import "testing"
 
