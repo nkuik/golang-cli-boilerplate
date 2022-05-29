@@ -1,0 +1,5 @@
+dist/
+golang-cli-boilerplate
+.vscode/
+vendor/
+.idea

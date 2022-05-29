@@ -28,6 +28,6 @@ jobs:
       - name: Build
         run: |
           go build
-      - name: Tests
-        run: |
-          ./shuttle run test
+      # - name: Tests
+      #   run: |
+      #     some test command
